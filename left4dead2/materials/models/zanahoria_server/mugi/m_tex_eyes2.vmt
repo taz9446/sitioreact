@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+"$Iris" "models/zanahoria_server/mugi/m_tex_eyes2"
+"$AmbientOcclTexture" "models/zanahoria_server/mugi/ao"
+"$Envmap" "models/zanahoria_server/ranka/basewarp"
+"$glossiness" "0"
+"$CorneaTexture" "models/zanahoria_server/ranka/normal"
+"$Halflambert" "1"
+"$Nodecal" "1"
+"$ParallaxStrength" "0"
+"$Dilation" "0.6"
+"$CorneaBumpStrength" "0"
+
+"$RaytraceSphere" "0"
+"$SphereTexkillCombo" "0"
+}
