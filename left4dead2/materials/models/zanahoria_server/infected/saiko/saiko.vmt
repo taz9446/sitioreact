@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zanahoria_server/infected/saiko/saiko"
+	"$nocull" 1
+	"$allowdiffusemodulation" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" 20
+	"$lightwarptexture" "models/zanahoria_server/infected/yuno/anime_infected"
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+	
+}
