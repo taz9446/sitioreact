@@ -1,0 +1,12 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$basetexture" "models/zanahoria_server/rikka/b1"
+$halflambert 1
+	"$lightwarptexture" "models\zanahoria_server\ranka\basewarp"
+	"$nocull" 1
+}
+}
