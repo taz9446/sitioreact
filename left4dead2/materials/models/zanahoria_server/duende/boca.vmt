@@ -1,0 +1,21 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+
+{
+$baseTexture "models\zanahoria_server\duende\boca"
+$bumpmap "models\zanahoria_server\ranka\normal"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.1 1 1]"
+	$lightwarptexture "models\zanahoria_server\ranka\basewarp"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "2"
+	$translucent 1
+}
+}

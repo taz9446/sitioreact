@@ -1,0 +1,6 @@
+"unlitGeneric"
+{
+	"$basetexture" "models\zanahoria_server\duende/outline"
+	"$nodecal" 1
+	"$no_cull" 1
+}
