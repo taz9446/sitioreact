@@ -1,0 +1,9 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+	"$baseTexture" "models/zanahoria_server/mugi/m_tex_kami.vtf"
+}
+}
