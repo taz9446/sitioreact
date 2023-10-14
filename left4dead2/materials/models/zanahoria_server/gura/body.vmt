@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\zanahoria_server\gura\body"
+$lightwarptexture "models\zanahoria_server\ranka\basewarp"
+$bumpmap "models\zanahoria_server\ranka\normal"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$nocull" "1"
+	"$halflambert" 1
+	"$phongfresnelranges"	"[1 .1 .1]"
+}
