@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models/zanahoria_server/infected/charger12/shell"
+//     "$bumpmap" "models/zanahoria_server/ranka/normal"
+//     "$envmap" "env_cubemap"
+//     "$normalmapalphaenvmapmask" 1
+//     "$envmapcontrast" 1
+     "$model" 1
+//     "$selfillum" 1
+}
