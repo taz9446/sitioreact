@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models\zanahoria_server\hats\hats"
+
+	"$halflambert" "1"
+
+}
