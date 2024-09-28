@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/zanahoria_server/machine/list"
+	"$surfaceprop" "default"
+	"$nodecal" "1"
+}

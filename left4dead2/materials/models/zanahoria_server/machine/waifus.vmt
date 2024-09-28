@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture" "models/zanahoria_server/machine/waifus"
+    "$surfaceprop" "glass"
+    "$nodecal" "1"
+    //"$selfillum" "1"
+}
