@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+$baseTexture "models/zanahoria_server/infected/hntr_fgo_peterdefault_col"
+$bumpmap "effects/flat_normal"
+$nodecal 1
+$nocull 1
+$halflambert 0
+$phong 1
+$phongboost 0.5
+$phongexponent 4
+$phongfresnelranges "[.1 .5 1]"
+$phongtint "[.62 .72 1]"
+$ambientocclusion 1
+$diffuseexp "1.3"
+$lightwarptexture "models/zanahoria_server/infected/hntr_fgo_peter_engyhndwrp"
+$allowdiffusemodulation 1
+}
