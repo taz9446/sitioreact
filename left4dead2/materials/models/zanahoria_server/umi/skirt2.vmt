@@ -1,0 +1,82 @@
+patch
+{
+include "materials/models/zanahoria_server/umi/medium_v1.vmt"
+insert
+{
+
+$basetexture "models\zanahoria_server\umi\clothes"
+ "$bumpmap" "models\zanahoria_server\ranka\normal"
+"$lightwarptexture" "models\zanahoria_server\ranka\basewarp"
+$nodecal 1
+$phong "1"
+$phongboost	".02"
+$phongalbedotint "1"
+$phongfresnelranges	"[1 .1 .1]"
+$PhongExponent "1.0"
+$halflambert "1"
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+// Realistic Damage (DMG) - Medium V1
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+	$alpha			"1"
+
+	$frame0ifbelow		"100"	// Display frame 0 if the survivor is below that health
+	$frame1ifbelow		"90"	// Display frame 1 if the survivor is below that health
+	$frame2ifbelow		"70"	// Display frame 2 if the survivor is below that health
+	$frame3ifbelow		"40"	// Display frame 3 if the survivor is below that health
+	$frame4ifbelow		"20"	// Display frame 4 if the survivor is below that health
+	$frame5ifbelow		"10"	// Display frame 5 if the survivor is below that health
+	$frame6ifbelow		"-1"	// Display frame 6 if the survivor is below that health
+	$frame7ifbelow		"-1"	// Display frame 7 if the survivor is below that health
+	$frame8ifbelow		"-1"	// Display frame 8 if the survivor is below that health
+
+	$frameIfDown		"0"	// Frame if the survivor is down (can be from above)
+
+	$canOnlyGetWorse	"0"	// Can the blood effect heal when Medkit is used
+
+	$randomBloodPosition	"0"	// Randomize blood position (1 = yes)
+	$randomBloodAngle	"0"	// Randomize blood angle (1 = yes)
+
+	$ScaleDET		"0.125"	// Scale of blood (small number = bigger)
+	$CenterDET		"0.5"	
+	$RotateDET		"0.0"	// Rotation of the blood (RNG overrides it)
+	$TranslationDET		"0.0"	// Translation of the blood (RNG overrides it)
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+// Next block is only useful if you want base texture (clothes) RNG
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+	$differentSkins		"0"	// Amount of skins to RNG
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+// Next block is only useful if you want to show 3D wounds / hide 3D destroyed armor
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+	$showIfBelowThisHP	"400"	// VMT invisibile if health above that
+	$butNotIfBelowThisHP	"25"	// VMT invisible if health below that
+
+	$alphaIfDown		"0"	// What $alpha to display when survivor is down
+	$alphaIfDownMaxPriority	"0"	// Always orce that $alpha if down
+	
+	$cannotRevertDefaultAlpha	"0"	// Can the $alpha change again if survivor heals
+
+	$chanceOfChanging	"100"	// % of chance that the visibility change will occur
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+//Bext is only useful for debug and testing purposes
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+	$scrollShowcase		"0"	// Input blood levels to start showcase
+
+//////////////////////////////////////////////////////////////////////////////////
+// The next value should normally not be changed, unless you did a mistake
+//////////////////////////////////////////////////////////////////////////////////
+
+	$detailblendmode	"0"
+	$shinyblood		"0"	
+
+//////////////////////////////////////////////////////////////////////////////////
+
+}
