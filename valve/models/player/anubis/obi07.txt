@@ -1,0 +1,17 @@
+This is a player model for Half-Life deathmatch.
+
+This model was created by Obi-Wan (obihb@yahoo.com)
+
+This model has exactly 488 faces
+
+I call it..... wait for it....   " The Egyption Dude "   :)
+
+Simply unzip this ZIP file to your Half-Life directory and select the model from the multiplayer setup menu in the game.
+
+The idea for this model just came to me by accident. I was busy with a model for Half-Life and somehow this jumped into my head. The model works pretty well with the default skeleton. You might see the "dress" part not working 100% for some animations but....  who cares. The hands are also a bit stuffed... :)  ooohh well.  Oh, again I've decided not to use the color change for the skin 'cause it just won't work well. I hate that color changer thing, different skins are better.
+
+The legal stuff basically include the following:
+
+Please don't use this model for your own mod's or anything else before contacting me first. Thank you for your cooperation. :)
+
+Enjoy!!

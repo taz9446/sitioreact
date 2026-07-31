@@ -1,0 +1,13 @@
+MJODNIR
+
+
+By: O11e
+polys: about 640
+skin: just forget about it
+Progs used: Max2 and cs. 
+Comments: Im pretty pleased with the model, I can only regret im
+the crappiest skinner alive... I still hope you will have some fun 
+with it. The shield got in the way so i had to change almost every
+weapon animation so it wouldnt clip into the body
+
+

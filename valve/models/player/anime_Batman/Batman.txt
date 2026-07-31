@@ -1,0 +1,35 @@
++---------------------------+
++ BATMAN MODEL FOR +
++     H A L F - L I F E     +
++                           +
++   8-28-1999 By diabolik   +
++---------------------------+
+
+Info:
+-----
+Author:       	Diabolik
+Model Name:   	BATMAN
+Relaese Date:  	21 October 1999
+Team Colors:   	no
+Animations:   	Standard Valve
+Build Time:    	3 Days (>6 hours)
+Programs Used:	MilkShape 3D, PSP 5, MS-Dos Editor
+Files:          Batman.MDL,Batman.BMP,Batman.TXT
+
+Description:
+------------
+This model is based on the movie character Batman. I think you
+all know Batman. 
+
+Installation:
+-------------
+Put the files of Batman into a subfolder called Batman in your HALF-LIFE\VALVE\MODELS\PLAYER directory.
+
+
+Distribution & Comments:
+------------------------
+
+You can distribute this model freely as long as it is unmodified
+and this text file is included.
+
+-----------------------------
