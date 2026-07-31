@@ -1,0 +1,36 @@
+Bosco the Fighting Kangaroo
+--------------------------------------------
+
+Author:         Chris Callow, AKA Lucky Bob, Phoenix, and anyone else just a wee bit crazy.
+
+Model Name:    Bosco
+Version:       	1
+Release Date:  	November 14, 1999
+Total Size:                     382 Kb
+Polygons:     	640
+Vertices:     	338
+Texture Size:  	 Two 256 x 256 files.( After a little extra skinning I realized that if i would have 
+                                        just though ahead, I probably could have placed them in 1 bmp, but too late by then. (aka. Im Lazy) 
+Team Colors:   	no
+Animations:   	Valve  (but wouldn't be neat to have him punch!)
+Build Time:    	2-3 hours...
+Programs Used:	Milkshape, Studiomdl, Paintshop Pro 6
+
+Known bugs:
+Theres a slight amount of polygon clipping, but nothing really big to worry about.  
+
+Description:
+This is my response to the dancing bear in the pink tutu. (Go get'em bosco!)
+
+Installation:
+
+Model Files: Just put the folder labeled bosco in your valve models folder under player.
+Optional Extras:  None...so far.
+
+Distribution:
+Distribute these models freely - as a set or individually, but please include the text files.
+
+---------------------------------------------
+
+E-mail:	   ejcjr@showme.net
+Website:  That'll be up real soon!...(no really!)
